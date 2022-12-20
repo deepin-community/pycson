@@ -1,0 +1,30 @@
+pycson (0.8-1-deepin1) unstable; urgency=medium
+
+  * Rebuild
+
+ -- Deepin Packages Builder <packages@deepin.org>  Thu, 24 Nov 2022 07:22:33 +0800
+
+pycson (0.8-1) unstable; urgency=medium
+
+  * add a watch file
+  * New upstream version 0.8
+
+ -- Norbert Preining <norbert@preining.info>  Wed, 19 Feb 2020 05:00:20 +0900
+
+pycson (0.7-3) unstable; urgency=medium
+
+  * source only upload
+
+ -- Norbert Preining <norbert@preining.info>  Fri, 19 Jul 2019 14:33:11 +0900
+
+pycson (0.7-2) unstable; urgency=medium
+
+  * update VCS, email
+
+ -- Norbert Preining <norbert@preining.info>  Sun, 03 Mar 2019 09:01:35 +0900
+
+pycson (0.7-1) unstable; urgency=medium
+
+  * First release (Closes: #912934)
+
+ -- Norbert Preining <preining@debian.org>  Mon, 05 Nov 2018 11:37:05 +0900
